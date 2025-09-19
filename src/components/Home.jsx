@@ -728,7 +728,7 @@ const Home = () => {
   // }, [details, page, language]);
 
   var title = songlink[0]?.name;
-  document.title = `${title ? title : "THE ULTIMATE SONGS"}`;
+  document.title = `${title ? title : "SHYAM VIBE MADE BY VNI0X"}`;
   // console.log(details);
   // console.log(home);
   // console.log(page);
@@ -750,7 +750,7 @@ const Home = () => {
         <div className="flex   items-center sm:justify-center sm:pt-2 gap-3">
           <img className="w-[5vw] sm:w-[10vw] rounded-full" src={logo} alt="" />
           <h1 className="text-2xl text-slate-900 p-2 rounded-full bg-neutral-500 sm:text-xl  font-black">
-            THE ULTIMATE SONGS
+            SHYAM VIBE MADE BY VNI0X
           </h1>
         </div>
         <motion.div
@@ -1067,7 +1067,7 @@ const Home = () => {
         </div>
         <div>
           <p className="font-semibold text-neutral-400 sm:text-sm">
-            <b>THE ULTIMATE SONGS</b> is not affiliated with JioSaavn. All
+            <b>SHYAM VIBE MADE BY VNI0X</b> is not affiliated with JioSaavn. All
             trademarks and copyrights belong to their respective owners. All
             media, images, and songs are the property of their respective
             owners. This site is for educational purposes only.
