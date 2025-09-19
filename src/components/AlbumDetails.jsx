@@ -588,7 +588,7 @@ const AlbumDetails = () => {
 
   var title = songlink[0]?.name;
 
-  document.title = `${title ? title : "THE ULTIMATE SONGS"}`;
+  document.title = `${title ? title : "SHYAM VIBE MADE BY VNI0X"}`;
   // console.log(finalid);
   // console.log(details);
   // console.log(songscount);
@@ -609,7 +609,7 @@ const AlbumDetails = () => {
           onClick={() => navigate(-1)}
           className="text-3xl cursor-pointer ml-5 bg-green-500 rounded-full ri-arrow-left-line"
         ></i>
-        <h1 className="text-xl text-zinc-300 font-black">THE ULTIMATE SONGS</h1>
+        <h1 className="text-xl text-zinc-300 font-black">SHYAM VIBE MADE BY VNI0X</h1>
       </div>
 
       {/* <div className="w-full relative text-white p-10 sm:p-3 sm:gap-3 h-[65vh] overflow-y-auto flex sm:block flex-wrap gap-7 justify-center ">
